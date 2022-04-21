@@ -1,7 +1,8 @@
-package com.amzesmoro.cc_chp5
+package com.amzesmoro.cc_chp5.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.amzesmoro.cc_chp5.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

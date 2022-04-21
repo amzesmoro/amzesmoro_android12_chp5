@@ -5,8 +5,11 @@
       <map>
         <entry key="app/src/main/res/drawable/bg_gradient.xml" value="0.136" />
         <entry key="app/src/main/res/drawable/splash_background.xml" value="0.128" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.11904761904761904" />
+        <entry key="app/src/main/res/font/poppins_semibold.xml" value="0.38256410256410256" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.41694488525390627" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.1980405415574165" />
+        <entry key="app/src/main/res/layout/choose_player.xml" value="0.32472826086956524" />
+        <entry key="app/src/main/res/layout/fragment_user.xml" value="0.19630371990416434" />
       </map>
     </option>
   </component>
